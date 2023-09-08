@@ -1,0 +1,29 @@
+.home-expertise-container{
+    padding-block:90px ;
+    background-color: rgb(233, 233, 233);
+    display: flex;
+    justify-content: center;
+
+}
+.home-expertise-inner-container{
+    display: flex;
+    flex-direction: column;
+    width: 900px;
+}
+.home-expertise-heading{
+    display: flex;
+    align-self: flex-start;
+}
+
+.home-expertise-para{
+    font-size: 15px;
+    margin-top: 20px;
+    text-align: justify;
+
+}
+
+@media (max-width: 1000px) {
+    .home-expertise-inner-container{
+        width: 90%;
+    }
+}

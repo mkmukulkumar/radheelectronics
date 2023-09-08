@@ -1,0 +1,51 @@
+.visionmission-container{
+    background-color: rgb(233, 233, 233);
+    display: flex;
+    justify-content: center;
+    padding-block: 90px;
+}
+.visionmission-visionmission-container{
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 405px;
+}
+.visionmission-inner-container{
+   display: flex;
+   width:900px;
+   justify-content: space-between;
+}
+.visionmission-heading{
+    margin-top:30px;
+}
+.visionmission-text{
+    text-align: center;
+    color: black;
+    font-size: 15px;
+    margin-top: 30px;
+}
+.visionmission-img-container{
+    height: 90px;
+    display: flex;
+    justify-content: center;
+}
+
+@media (max-width: 1000px) {
+    .visionmission-inner-container{
+        width: 90%;
+        flex-direction: column;
+    }
+    .visionmission-visionmission-container{
+        width: 100%;
+    }
+    .visionmission-text{
+        text-align: justify;
+    }
+    .topmrgn{
+        margin-top: 60px;
+    }
+    .visionmission-img-container{
+        height: 100%;
+    }
+}

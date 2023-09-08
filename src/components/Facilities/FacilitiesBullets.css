@@ -1,0 +1,28 @@
+.facilities-bullets-container{
+    display: flex;
+    padding-top: 30px;
+    padding-bottom: 90px;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(233, 233, 233);
+}
+.facilities-bullets-list{
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    margin-top: 60px;
+    width: 900px;
+    
+}
+
+.facilities-bullets-para{
+    margin-top: 15px;
+    text-align: justify;
+    font-size: 15px;
+}
+
+@media (max-width: 1000px) {
+    .facilities-bullets-list{
+        width: 90%;
+    }
+}

@@ -1,0 +1,34 @@
+.img-container{
+    height: 300px;
+    overflow:hidden;
+    background-color: #002842;
+}
+
+.img-animation-tagline{
+    font-size: 24px;
+    color: white;
+    font-weight: 500;
+}
+.img-animation-tagline-container{
+    width: 400px;
+    margin-left: 150px;
+    text-align: right;
+    position: absolute;
+    top:210px;
+    right: 150px;
+}
+.img-animation-img{
+    width: 100%;
+    object-fit:cover;
+    height: 100%;
+    opacity:0.2;
+}
+
+@media (max-width:1150px){
+    .img-animation-tagline-container{
+        right: 5%;
+    }
+    .img-animation-tagline{
+        font-size: 18px;
+   }
+}

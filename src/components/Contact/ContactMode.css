@@ -1,0 +1,47 @@
+.contactmode-outer-container{
+    display: flex;
+    justify-content: center;
+}
+.contactmode-container{
+    width: 900px;
+    justify-content: space-between;
+    display: flex;
+}
+.contactmode-inner-container{
+    padding-block: 120px;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.contactmode-text{
+    text-align: center;
+    color: black;
+    font-size: 15px;
+    margin-top: 30px;
+}
+.contactmode-img-container{
+    height: 90px;
+    margin-block: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.contactmode-subheading-value{
+    font-size: 15px;
+}
+.contactmode-text-container{
+    display: flex;
+    flex-direction: column;
+}
+@media (max-width: 1000px) {
+    .contactmode-container{
+        width: 90%;
+        padding-bottom: 90px;
+        flex-direction: column;
+    }
+    .contactmode-inner-container{
+    margin-top: 90px;
+    padding-block: 30px;
+}
+}

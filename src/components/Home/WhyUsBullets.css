@@ -1,0 +1,18 @@
+.home-whyusbullets-container{
+    display: flex;
+    flex-direction: column;
+}
+.home-whyusbullets-list{
+    margin-top: 60px;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    animation: slide 15s linear infinite;
+    
+}
+
+.home-whyusbullets-para{
+    margin-top: 15px;
+    text-align: justify;
+    font-size: 15px;
+}

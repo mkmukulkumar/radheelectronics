@@ -1,23 +1,28 @@
-import logo from './logo.svg';
 import './App.css';
+import { useEffect } from 'react';
+import {BrowserRouter, Routes, Route} from "react-router-dom"
+import Home from '../src/components/Home/Home';
+import About from '../src/components/About/About';
+import Contact from '../src/components/Contact/Contact';
+import Services from '../src/components/Services/Services';
+import Facilities from './components/Facilities/Facilities';
 
-function App() {
+
+function App() { 
+  useEffect(() => {
+    document.title = "Radhe Electronics";
+  }, []);
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <BrowserRouter basename="/RadheElectronics">
+      <Routes>
+            <Route path="/" element={<Home/>} />
+            <Route path="about" element={<About/>} />
+            <Route path="contact" element={<Contact/>} />
+            <Route path="services" element={<Services/>} />  
+            <Route path="facilities" element={<Facilities/>} />  
+      </Routes>
+      </BrowserRouter>
     </div>
   );
 }

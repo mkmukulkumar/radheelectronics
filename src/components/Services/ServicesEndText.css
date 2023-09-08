@@ -1,0 +1,18 @@
+.services-endtext-container{
+    margin-bottom: 90px;   
+    display: flex;
+    justify-content: center;
+}
+.services-endtext-text{
+    width: 900px;
+    font-size: 15px;
+    text-align: justify;
+}
+
+@media (max-width: 1000px) {
+    .services-endtext-text{
+        width: 90%;
+    }
+   
+}
+

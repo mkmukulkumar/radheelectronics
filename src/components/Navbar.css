@@ -1,0 +1,117 @@
+.navbar {
+  z-index: 2;
+  background-color:#002842;
+  color: #fff;
+  display: flex;
+  height: 90px;
+  justify-content: space-between;
+  padding: 0px 150px;
+  align-items: center;
+  position: sticky; 
+  top: 0;
+  transition: all 0.3s ease-in-out;
+}
+.scrolled {
+  height: 60px; 
+}
+.navbar-logo {
+  font-size: 1.5rem;
+  color: #fff;
+  font-weight:700;
+  text-decoration: none;
+}
+
+.nav-elements {
+}
+.nav-elements ul {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+}
+.nav-elements ul li:not(:last-child) {
+  margin-right: 30px;
+}
+.nav-elements ul a {
+  margin-right: -20px;
+  color: #fff;
+  text-decoration: none;
+  letter-spacing: 0.15em; 
+  display: inline-block;
+  padding: 15px 20px;
+  position: relative;
+}
+.nav-elements ul a:after {
+  background: none repeat scroll 0 0 transparent;
+  bottom: 0;
+  content: "";
+  display: block;
+  height: 2px;
+  left: 50%;
+  position: absolute;
+  background: #fff;
+  transition: width 0.3s ease 0s, left 0.3s ease 0s;
+  width: 0;
+}
+.nav-elements ul a:hover:after {
+  width: 100%; 
+  left: 0;
+}
+
+.menu-icon {
+  display: none;
+}
+
+@media (max-width: 1150px) {
+  .nav-elements ul li:not(:last-child) {
+    margin-right: 10px;
+  }
+  .navbar {
+  padding: 0px 5%;
+ }
+}
+
+@media (max-width: 900px) {
+  
+  .navbar {
+    padding: 0px 20px;
+   }
+  .menu-icon {
+    display: block;
+    cursor: pointer;
+    transform: rotate(90deg);
+    font-weight:800 ;
+  }
+
+  .nav-elements {
+    position: absolute;
+    right: 0;
+    top: 60px;
+    width: 0px;
+    height: 100vh;
+    transition: all 0.3s ease-in;
+    overflow: hidden;
+  }
+
+  .nav-elements.active {
+    background-color: #002842;
+    width: 240px;
+    padding-right: 40px;
+  }
+
+  .nav-elements ul {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .nav-elements ul li {
+    margin-right: unset;
+    margin-top: 22px;
+    
+  }
+  .nav-elements ul a {
+    margin-right: 0px;
+  }
+  .nav-elements ul li:not(:last-child) {
+    margin-right: 0px;
+  }
+}

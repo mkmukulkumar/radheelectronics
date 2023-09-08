@@ -1,0 +1,44 @@
+.corevalues-outer-container{
+    display: flex;
+    justify-content: center;
+}
+.corevalues-container{
+    margin-block: 90px;
+    width: 900px;
+    display: flex;
+    flex-direction: column;
+}
+.corevalues--heading{
+    display: flex;
+    align-self: flex-start;
+}
+.corevalues-list{
+    display: flex;
+    flex-direction: column;
+    display: flex;
+    width:405px;
+    align-items: flex-start;
+}
+
+.corevalues-para{
+    margin-top: 15px;
+    font-size: 15px;
+    text-align: justify;
+}
+.corevalues-inner-container{
+    padding-top: 60px;
+    display: flex;
+    justify-content: space-between;
+}
+
+@media (max-width: 1000px) {
+    .corevalues-container{
+        width: 90%;
+    }
+    .corevalues-inner-container{
+        flex-direction: column;
+    }
+    .corevalues-list{
+        width: 100%;
+    }
+}
