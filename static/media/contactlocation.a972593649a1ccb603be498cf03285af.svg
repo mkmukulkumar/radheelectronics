@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="115" height="115" viewBox="0 0 115 115">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: #002842;
+      }
+
+      .cls-1 {
+        stroke: #707070;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #002842;
+        stroke-width: 2px;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+
+      .cls-5 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_41" data-name="Group 41" transform="translate(-1156 -2204)">
+    <g id="Ellipse_13" data-name="Ellipse 13" class="cls-1" transform="translate(1156 2204)">
+      <circle class="cls-4" cx="57.5" cy="57.5" r="57.5"/>
+      <circle class="cls-5" cx="57.5" cy="57.5" r="57"/>
+    </g>
+    <g id="Group_37" data-name="Group 37" transform="translate(-417.772 -115.776)">
+      <path id="Path_4" data-name="Path 4" class="cls-2" d="M11530.271,852.082s20.286-25.892,20.286-39.6-11.664-19.164-20.286-19.057-20.612,5.032-20.612,19.057S11530.271,852.082,11530.271,852.082Z" transform="translate(-9898.335 1553.694)"/>
+      <g id="Ellipse_8" data-name="Ellipse 8" class="cls-3" transform="translate(1623 2358)">
+        <ellipse class="cls-4" cx="8.5" cy="9" rx="8.5" ry="9"/>
+        <ellipse class="cls-5" cx="8.5" cy="9" rx="7.5" ry="8"/>
+      </g>
+    </g>
+  </g>
+</svg>
