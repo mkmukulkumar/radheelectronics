@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/radheelectronics/static/css/main.cec0617a.css",
-    "main.js": "/radheelectronics/static/js/main.70a67615.js",
-    "static/js/787.0ab7b56a.chunk.js": "/radheelectronics/static/js/787.0ab7b56a.chunk.js",
-    "static/media/company.jpg": "/radheelectronics/static/media/company.856153a26147db69177d.jpg",
-    "static/media/circuit.jpg": "/radheelectronics/static/media/circuit.73011bbf7375fdac5235.jpg",
-    "static/media/team.jpg": "/radheelectronics/static/media/team.5237e4f5790b4a5f7c40.jpg",
-    "static/media/mission.svg": "/radheelectronics/static/media/mission.d3bc65c5d73fcbf48f9ddb1bc1b19248.svg",
-    "static/media/contactlocation.svg": "/radheelectronics/static/media/contactlocation.a972593649a1ccb603be498cf03285af.svg",
-    "static/media/contactmail.svg": "/radheelectronics/static/media/contactmail.8af67f11c904317a2a1e1766eeffb79b.svg",
-    "static/media/contactphone.svg": "/radheelectronics/static/media/contactphone.648faeab455768c701b7c0266faa6c90.svg",
-    "static/media/vision.svg": "/radheelectronics/static/media/vision.0530c63af43abe966867037ab71b506e.svg",
-    "static/media/mail.svg": "/radheelectronics/static/media/mail.39526b6f75685911954135206b319729.svg",
-    "static/media/location.svg": "/radheelectronics/static/media/location.0d89af9fac93af50ae14c52b76665cb8.svg",
-    "static/media/phone.svg": "/radheelectronics/static/media/phone.97f88e024f15906cdd1c6edef30e345e.svg",
-    "index.html": "/radheelectronics/index.html",
-    "main.cec0617a.css.map": "/radheelectronics/static/css/main.cec0617a.css.map",
-    "main.70a67615.js.map": "/radheelectronics/static/js/main.70a67615.js.map",
-    "787.0ab7b56a.chunk.js.map": "/radheelectronics/static/js/787.0ab7b56a.chunk.js.map"
+    "main.css": "/radheelectronics.com/static/css/main.cec0617a.css",
+    "main.js": "/radheelectronics.com/static/js/main.c2dcd816.js",
+    "static/js/787.0ab7b56a.chunk.js": "/radheelectronics.com/static/js/787.0ab7b56a.chunk.js",
+    "static/media/company.jpg": "/radheelectronics.com/static/media/company.856153a26147db69177d.jpg",
+    "static/media/circuit.jpg": "/radheelectronics.com/static/media/circuit.73011bbf7375fdac5235.jpg",
+    "static/media/team.jpg": "/radheelectronics.com/static/media/team.5237e4f5790b4a5f7c40.jpg",
+    "static/media/mission.svg": "/radheelectronics.com/static/media/mission.d3bc65c5d73fcbf48f9ddb1bc1b19248.svg",
+    "static/media/contactlocation.svg": "/radheelectronics.com/static/media/contactlocation.a972593649a1ccb603be498cf03285af.svg",
+    "static/media/contactmail.svg": "/radheelectronics.com/static/media/contactmail.8af67f11c904317a2a1e1766eeffb79b.svg",
+    "static/media/contactphone.svg": "/radheelectronics.com/static/media/contactphone.648faeab455768c701b7c0266faa6c90.svg",
+    "static/media/vision.svg": "/radheelectronics.com/static/media/vision.0530c63af43abe966867037ab71b506e.svg",
+    "static/media/mail.svg": "/radheelectronics.com/static/media/mail.39526b6f75685911954135206b319729.svg",
+    "static/media/location.svg": "/radheelectronics.com/static/media/location.0d89af9fac93af50ae14c52b76665cb8.svg",
+    "static/media/phone.svg": "/radheelectronics.com/static/media/phone.97f88e024f15906cdd1c6edef30e345e.svg",
+    "index.html": "/radheelectronics.com/index.html",
+    "main.cec0617a.css.map": "/radheelectronics.com/static/css/main.cec0617a.css.map",
+    "main.c2dcd816.js.map": "/radheelectronics.com/static/js/main.c2dcd816.js.map",
+    "787.0ab7b56a.chunk.js.map": "/radheelectronics.com/static/js/787.0ab7b56a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cec0617a.css",
-    "static/js/main.70a67615.js"
+    "static/js/main.c2dcd816.js"
   ]
 }
