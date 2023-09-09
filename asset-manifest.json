@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.cec0617a.css",
-    "main.js": "/static/js/main.fc763938.js",
+    "main.js": "/static/js/main.95e19941.js",
     "static/js/787.0ab7b56a.chunk.js": "/static/js/787.0ab7b56a.chunk.js",
     "static/media/company.jpg": "/static/media/company.856153a26147db69177d.jpg",
     "static/media/circuit.jpg": "/static/media/circuit.73011bbf7375fdac5235.jpg",
@@ -12,15 +12,15 @@
     "static/media/contactphone.svg": "/static/media/contactphone.648faeab455768c701b7c0266faa6c90.svg",
     "static/media/vision.svg": "/static/media/vision.0530c63af43abe966867037ab71b506e.svg",
     "static/media/mail.svg": "/static/media/mail.39526b6f75685911954135206b319729.svg",
+    "index.html": "/index.html",
     "static/media/location.svg": "/static/media/location.0d89af9fac93af50ae14c52b76665cb8.svg",
     "static/media/phone.svg": "/static/media/phone.97f88e024f15906cdd1c6edef30e345e.svg",
-    "index.html": "/index.html",
     "main.cec0617a.css.map": "/static/css/main.cec0617a.css.map",
-    "main.fc763938.js.map": "/static/js/main.fc763938.js.map",
+    "main.95e19941.js.map": "/static/js/main.95e19941.js.map",
     "787.0ab7b56a.chunk.js.map": "/static/js/787.0ab7b56a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cec0617a.css",
-    "static/js/main.fc763938.js"
+    "static/js/main.95e19941.js"
   ]
 }
