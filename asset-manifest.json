@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.d1d3d906.css",
-    "main.js": "/static/js/main.4c460753.js",
+    "main.css": "/static/css/main.367602fa.css",
+    "main.js": "/static/js/main.fafc21ae.js",
     "static/js/787.0ab7b56a.chunk.js": "/static/js/787.0ab7b56a.chunk.js",
     "static/media/Radhe-Electronics-Baddi-About.jpg": "/static/media/Radhe-Electronics-Baddi-About.26ddb0dde5fe7a6fa08d.jpg",
     "static/media/Radhe-Electronics-Baddi-Home.jpg": "/static/media/Radhe-Electronics-Baddi-Home.2bc4e4f6d531199f4997.jpg",
@@ -22,21 +22,21 @@
     "static/media/Radhe-Electronics-PCB-Assembly-Touch-up-lines.jpg": "/static/media/Radhe-Electronics-PCB-Assembly-Touch-up-lines.fc5b5891d2dde2517499.jpg",
     "static/media/Radhe-Electronics-Product-Development-and-R&D.jpg": "/static/media/Radhe-Electronics-Product-Development-and-R&D.4b4cad355d9780666c25.jpg",
     "static/media/Radhe-Electronics-Our-Team.jpg": "/static/media/Radhe-Electronics-Our-Team.5237e4f5790b4a5f7c40.jpg",
+    "index.html": "/index.html",
     "static/media/Radhe-Electronics-Mission.svg": "/static/media/Radhe-Electronics-Mission.d3bc65c5d73fcbf48f9ddb1bc1b19248.svg",
     "static/media/Radhe-Electronics-contactlocation.svg": "/static/media/Radhe-Electronics-contactlocation.a972593649a1ccb603be498cf03285af.svg",
     "static/media/Radhe-Electronics-contactmail.svg": "/static/media/Radhe-Electronics-contactmail.8af67f11c904317a2a1e1766eeffb79b.svg",
     "static/media/Radhe-Electronics-contactphone.svg": "/static/media/Radhe-Electronics-contactphone.648faeab455768c701b7c0266faa6c90.svg",
-    "index.html": "/index.html",
     "static/media/Radhe-Electronics-Vision.svg": "/static/media/Radhe-Electronics-Vision.0530c63af43abe966867037ab71b506e.svg",
     "static/media/Radhe-Electronics-Icon-Mail.svg": "/static/media/Radhe-Electronics-Icon-Mail.39526b6f75685911954135206b319729.svg",
     "static/media/Radhe-Electronics-Icon-Location.svg": "/static/media/Radhe-Electronics-Icon-Location.0d89af9fac93af50ae14c52b76665cb8.svg",
     "static/media/Radhe-Electronics-Icon-Phone.svg": "/static/media/Radhe-Electronics-Icon-Phone.97f88e024f15906cdd1c6edef30e345e.svg",
-    "main.d1d3d906.css.map": "/static/css/main.d1d3d906.css.map",
-    "main.4c460753.js.map": "/static/js/main.4c460753.js.map",
+    "main.367602fa.css.map": "/static/css/main.367602fa.css.map",
+    "main.fafc21ae.js.map": "/static/js/main.fafc21ae.js.map",
     "787.0ab7b56a.chunk.js.map": "/static/js/787.0ab7b56a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d1d3d906.css",
-    "static/js/main.4c460753.js"
+    "static/css/main.367602fa.css",
+    "static/js/main.fafc21ae.js"
   ]
 }
