@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.5a26cef1.css",
-    "main.js": "/static/js/main.36f4cb4b.js",
+    "main.js": "/static/js/main.44aed559.js",
     "static/js/787.0ab7b56a.chunk.js": "/static/js/787.0ab7b56a.chunk.js",
-    "static/media/Radhe-Electronics-Baddi-Home.jpg": "/static/media/Radhe-Electronics-Baddi-Home.107a92b74fc733951248.jpg",
     "static/media/Radhe-Electronics-Baddi-About.jpg": "/static/media/Radhe-Electronics-Baddi-About.1a0f43cf85b8f841725b.jpg",
     "static/media/Radhe-Electronics-Baddi-Services.jpg": "/static/media/Radhe-Electronics-Baddi-Services.8ad263b96db7bcc76a5a.jpg",
     "static/media/Radhe-Electronics-Home-Appliance-Products.jpg": "/static/media/Radhe-Electronics-Home-Appliance-Products.758a563299c56fc9ba41.jpg",
     "static/media/Radhe-Electronics-Baddi-Facilities.jpg": "/static/media/Radhe-Electronics-Baddi-Facilities.2e50b15504fd61095350.jpg",
     "static/media/Radhe-Electronics-FUJI-SMT-Pick-and-Place.jpg": "/static/media/Radhe-Electronics-FUJI-SMT-Pick-and-Place.4c79630a183866b7962a.jpg",
     "static/media/Radhe-Electronics-Baddi-Contact.jpg": "/static/media/Radhe-Electronics-Baddi-Contact.a913d007dabf05cb2b4c.jpg",
+    "static/media/Radhe-Electronics-Baddi-Home.jpg": "/static/media/Radhe-Electronics-Baddi-Home.8f2d2bcf13b6e0c55d50.jpg",
     "static/media/Radhe-Electronics-Our-Story.jpg": "/static/media/Radhe-Electronics-Our-Story.c54073c7c2c373fa3168.jpg",
     "static/media/Radhe-Electronics-Plastic-Molding-Equipment.jpg": "/static/media/Radhe-Electronics-Plastic-Molding-Equipment.021fb55004e53dcc7d4e.jpg",
     "static/media/Radhe-Electronics-Yontoro-Wave-Soldering-Machine.jpg": "/static/media/Radhe-Electronics-Yontoro-Wave-Soldering-Machine.476271d9f20c18cf463d.jpg",
@@ -24,7 +24,7 @@
     "static/media/Radhe-Electronics-Customized-Solutions.jpg": "/static/media/Radhe-Electronics-Customized-Solutions.549761c45ce4fffc30f6.jpg",
     "static/media/Radhe-Electronics-Baddi-EMS-Icon.svg": "/static/media/Radhe-Electronics-Baddi-EMS-Icon.0dd058159821690ad1f3cf50546ebee7.svg",
     "static/media/Radhe-Electronics-Baddi-PCB-Assembly-Icon.svg": "/static/media/Radhe-Electronics-Baddi-PCB-Assembly-Icon.5743d3a854aa2eaea9d98fa9063b2ebb.svg",
-    "static/media/Radhe-Electronics-Baddi-R&D-Icon.svg": "/static/media/Radhe-Electronics-Baddi-R&D-Icon.08814232f3ebfa64004a7467b274824c.svg",
+    "static/media/Radhe-Electronics-Baddi-R&D-Icon.svg": "/static/media/Radhe-Electronics-Baddi-R&D-Icon.46929446c6e3f4cf2d27904f27983136.svg",
     "static/media/Radhe-Electronics-Mission.svg": "/static/media/Radhe-Electronics-Mission.d3bc65c5d73fcbf48f9ddb1bc1b19248.svg",
     "index.html": "/index.html",
     "static/media/Radhe-Electronics-contactlocation.svg": "/static/media/Radhe-Electronics-contactlocation.a972593649a1ccb603be498cf03285af.svg",
@@ -35,11 +35,11 @@
     "static/media/Radhe-Electronics-Icon-Location.svg": "/static/media/Radhe-Electronics-Icon-Location.0d89af9fac93af50ae14c52b76665cb8.svg",
     "static/media/Radhe-Electronics-Icon-Phone.svg": "/static/media/Radhe-Electronics-Icon-Phone.97f88e024f15906cdd1c6edef30e345e.svg",
     "main.5a26cef1.css.map": "/static/css/main.5a26cef1.css.map",
-    "main.36f4cb4b.js.map": "/static/js/main.36f4cb4b.js.map",
+    "main.44aed559.js.map": "/static/js/main.44aed559.js.map",
     "787.0ab7b56a.chunk.js.map": "/static/js/787.0ab7b56a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5a26cef1.css",
-    "static/js/main.36f4cb4b.js"
+    "static/js/main.44aed559.js"
   ]
 }
